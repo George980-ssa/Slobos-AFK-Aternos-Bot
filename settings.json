@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Biftekas.aternos.me:14909",
+    "port": 14909,
     "version": "",
     "try-creative": false
   },
