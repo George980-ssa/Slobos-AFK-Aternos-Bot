@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " Biftekas.aternos.me:",
+    "ip": " Biftekas.aternos.me:14909",
     "port": 14909,
     "version": "1.21.11",
     "try-creative": false
