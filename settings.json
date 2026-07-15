@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "briard.aternos.host:",
+    "ip": "briard.aternos.host:14909",
     "port": 14909,
     "version": "",
     "try-creative": false
