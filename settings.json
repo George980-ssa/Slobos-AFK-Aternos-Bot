@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "briard.aternos.host:14909",
+    "ip": " Biftekas.aternos.me:",
     "port": 14909,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
